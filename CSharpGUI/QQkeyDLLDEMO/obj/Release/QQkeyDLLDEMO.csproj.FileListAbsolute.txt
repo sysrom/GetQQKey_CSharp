@@ -1,0 +1,9 @@
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\bin\Release\QQkeyDLLDEMO.exe.config
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\bin\Release\QQkeyDLLDEMO.exe
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\bin\Release\QQkeyDLLDEMO.pdb
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Release\QQkeyDLLDEMO.Form1.resources
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Release\QQkeyDLLDEMO.Properties.Resources.resources
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Release\QQkeyDLLDEMO.csproj.GenerateResource.cache
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Release\QQkeyDLLDEMO.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Release\QQkeyDLLDEMO.exe
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Release\QQkeyDLLDEMO.pdb

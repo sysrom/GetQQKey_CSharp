@@ -1,0 +1,10 @@
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\bin\Debug\QQkeyDLLDEMO.exe.config
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\bin\Debug\QQkeyDLLDEMO.exe
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\bin\Debug\QQkeyDLLDEMO.pdb
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Debug\QQkeyDLLDEMO.csproj.AssemblyReference.cache
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Debug\QQkeyDLLDEMO.Form1.resources
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Debug\QQkeyDLLDEMO.Properties.Resources.resources
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Debug\QQkeyDLLDEMO.csproj.GenerateResource.cache
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Debug\QQkeyDLLDEMO.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Debug\QQkeyDLLDEMO.exe
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Debug\QQkeyDLLDEMO.pdb

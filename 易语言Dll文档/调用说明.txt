@@ -1,0 +1,5 @@
+GetClientUin(int 传入TIM/QQ的PID) 返回文本型
+GetCookies(int 传入QQ号,传入文本型QQkey) 返回文本型
+GetClientKey(int 传入TIM/QQ的PID) 返回文本型
+GetClientName(int 传入QQ号,传入QQ/TIM的PID) 返回文本型
+GetHttpKey(int 传入TIM/QQ的PID) 返回文本型
