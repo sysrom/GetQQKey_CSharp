@@ -47,7 +47,11 @@ namespace QQkeyDLLDEMO
         {
             //MessageBox.Show("By sysR@M\n QQ号:"+GetClientUin(7072)+" QQ名:"+GetClientName(Convert.ToInt32(GetClientUin(7072)),7072)+"\nQQClientKey:"+GetClientKey(7072)+"\nQQHttpKey:"+GetHttpKey(7072));
             //MessageBox.Show(GetOnepid("TIM.exe").ToString());
-            MessageBox.Show("By sysR@M\nQQ号:"+GetClientUin(GetTIMpid()));
+            String QQnum = GetClientUin(GetTIMpid());
+            MessageBox.Show("By sysR@M\nQQ号:"+QQnum);
+            if (checkBox1.Checked) {
+                textBox1.Text = QQnum;
+            }
         }
 
         private void Close(object sender, FormClosedEventArgs e)
@@ -62,12 +66,31 @@ namespace QQkeyDLLDEMO
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("By sysR@M\nClientKey:"+GetClientKey(GetTIMpid()));
+            String CK = GetClientKey(GetTIMpid());
+            MessageBox.Show("By sysR@M\nClientKey:" + CK);
+            //if (checkBox1.Checked) {
+            //    textBox2.Text = CK;
+            //}
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("By sysR@M\nHttpKey:"+GetHttpKey(GetTIMpid()));
+            String HK = GetHttpKey(GetTIMpid());
+            MessageBox.Show("By sysR@M\nHttpKey:"+HK);
+            if (checkBox1.Checked) {
+                textBox2.Text = HK;
+            }
+        }
+
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("http://ptlogin2.qq.com/jump?clientuin="+textBox1.Text+ "&clientkey="+textBox2.Text+ "&keyindex=9&pt_aid=549000912&u1=http%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv5%2Floginsucc.html%3Fpara%3Dizone");
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("http://ptlogin2.qq.com/jump?clientuin="+textBox1.Text+ "&clientkey="+textBox2.Text+ "&keyindex=9&u1=https://mail.qq.com/cgi-bin/login?vt=passport&vm=wpt&ft=ptlogin");
         }
     }
 }

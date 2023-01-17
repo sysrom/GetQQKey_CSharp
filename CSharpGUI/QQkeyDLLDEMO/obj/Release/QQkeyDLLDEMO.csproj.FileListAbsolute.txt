@@ -7,3 +7,4 @@ C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Release\QQkeyDL
 C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Release\QQkeyDLLDEMO.csproj.CoreCompileInputs.cache
 C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Release\QQkeyDLLDEMO.exe
 C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Release\QQkeyDLLDEMO.pdb
+C:\Users\SYSTEM ERROR\source\repos\QQkeyDLLDEMO\QQkeyDLLDEMO\obj\Release\QQkeyDLLDEMO.csproj.AssemblyReference.cache
