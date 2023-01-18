@@ -1,5 +1,5 @@
 # GetQQKey_CSharp
-Get QQ number using C# By SYSR@M<br>
+Get QQuin//QQClientKey/HttpKeys using C# By SYSR@M<br>
 01/17/2023 新增利用功能<br>
 闲着写的一些小工具<br>
 还有代码里面写的获取PID是取TIM的 若是QQ改成QQ就行了
